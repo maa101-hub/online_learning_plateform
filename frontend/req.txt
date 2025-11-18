@@ -1,0 +1,7 @@
+react-router-dom
+npm install react-slick slick-carousel
+
+
+cloudinary for image and video upload 
+
+
